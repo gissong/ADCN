@@ -11,5 +11,5 @@ Gengchen Mai, Krzysztof Janowicz, Yingjie Hu, Song Gao. ADCN: An Anisotropic Den
 The original code and experiments were developed in Javascript by UCSB Geography Gengchen Mai.
 ![Image description](https://github.com/gissong/ADCN/blob/master/figures/interface.png)
 
-The Python version of the ADCN-KNN was further developed by Mingxiao Li (Chinese Academy of Sciences) and modified by Song Gao (UW-Madison). 
+The Python version of the ADCN-KNN was further developed by Mingxiao Li (Chinese Academy of Sciences) and Song Gao (UW-Madison). 
 
