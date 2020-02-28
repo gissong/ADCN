@@ -29,5 +29,5 @@ The Python version of the ADCN-KNN was further developed by Mingxiao Li (Chinese
 ![Image description](https://github.com/gissong/ADCN/blob/master/figures/vectorzation.png)
 
 ## Test Data
-[Link to original paper test cases](https://github.com/gengchenmai/adcn/tree/master/ADCN-testdata)
+[Link to original ADCN algorithm paper test cases](https://github.com/gengchenmai/adcn/tree/master/ADCN-testdata)
 
